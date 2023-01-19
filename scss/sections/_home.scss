@@ -23,9 +23,11 @@
 .main-home-grid {
     grid-area: main;
     height: 95vh;
-    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1660351317/my-proyect-css/main-background_qymp6v.jpg);
+    background-image: url(https://res.cloudinary.com/federicog/image/upload/v1663027220/my-proyect-css/index-background.jpg);
     background-color: rgba(0, 0, 0, .4);
     background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     #home {
     .container-home-text {
